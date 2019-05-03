@@ -1,0 +1,30 @@
+C:\Users\Felippe Augusto\source\repos\Cadastro\Cadastro\bin\Debug\Cadastro.exe.config
+C:\Users\Felippe Augusto\source\repos\Cadastro\Cadastro\bin\Debug\Cadastro.exe
+C:\Users\Felippe Augusto\source\repos\Cadastro\Cadastro\bin\Debug\Cadastro.pdb
+C:\Users\Felippe Augusto\source\repos\Cadastro\Cadastro\obj\Debug\Cadastro.csprojAssemblyReference.cache
+C:\Users\Felippe Augusto\source\repos\Cadastro\Cadastro\obj\Debug\Cadastro.Cadastro.resources
+C:\Users\Felippe Augusto\source\repos\Cadastro\Cadastro\obj\Debug\Cadastro.Properties.Resources.resources
+C:\Users\Felippe Augusto\source\repos\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.GenerateResource.cache
+C:\Users\Felippe Augusto\source\repos\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.CoreCompileInputs.cache
+C:\Users\Felippe Augusto\source\repos\Cadastro\Cadastro\obj\Debug\Cadastro.exe
+C:\Users\Felippe Augusto\source\repos\Cadastro\Cadastro\obj\Debug\Cadastro.pdb
+C:\Users\Tesouraria\Desktop\Cadastro\Cadastro\bin\Debug\Cadastro.exe.config
+C:\Users\Tesouraria\Desktop\Cadastro\Cadastro\bin\Debug\Cadastro.exe
+C:\Users\Tesouraria\Desktop\Cadastro\Cadastro\bin\Debug\Cadastro.pdb
+C:\Users\Tesouraria\Desktop\Cadastro\Cadastro\obj\Debug\Cadastro.csprojAssemblyReference.cache
+C:\Users\Tesouraria\Desktop\Cadastro\Cadastro\obj\Debug\Cadastro.Cadastro.resources
+C:\Users\Tesouraria\Desktop\Cadastro\Cadastro\obj\Debug\Cadastro.Properties.Resources.resources
+C:\Users\Tesouraria\Desktop\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.GenerateResource.cache
+C:\Users\Tesouraria\Desktop\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.CoreCompileInputs.cache
+C:\Users\Tesouraria\Desktop\Cadastro\Cadastro\obj\Debug\Cadastro.exe
+C:\Users\Tesouraria\Desktop\Cadastro\Cadastro\obj\Debug\Cadastro.pdb
+C:\Users\Felippe Augusto\Desktop\Estudo\Cadastro\Cadastro\bin\Debug\Cadastro.exe.config
+C:\Users\Felippe Augusto\Desktop\Estudo\Cadastro\Cadastro\bin\Debug\Cadastro.exe
+C:\Users\Felippe Augusto\Desktop\Estudo\Cadastro\Cadastro\bin\Debug\Cadastro.pdb
+C:\Users\Felippe Augusto\Desktop\Estudo\Cadastro\Cadastro\obj\Debug\Cadastro.csprojAssemblyReference.cache
+C:\Users\Felippe Augusto\Desktop\Estudo\Cadastro\Cadastro\obj\Debug\Cadastro.Cadastro.resources
+C:\Users\Felippe Augusto\Desktop\Estudo\Cadastro\Cadastro\obj\Debug\Cadastro.Properties.Resources.resources
+C:\Users\Felippe Augusto\Desktop\Estudo\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.GenerateResource.cache
+C:\Users\Felippe Augusto\Desktop\Estudo\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.CoreCompileInputs.cache
+C:\Users\Felippe Augusto\Desktop\Estudo\Cadastro\Cadastro\obj\Debug\Cadastro.exe
+C:\Users\Felippe Augusto\Desktop\Estudo\Cadastro\Cadastro\obj\Debug\Cadastro.pdb
